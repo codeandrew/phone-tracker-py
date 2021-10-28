@@ -7,4 +7,5 @@
 
 ## Exec 
 
-Change number in main.py
+Change number var in main.py then: 
+`python3 main.py`
