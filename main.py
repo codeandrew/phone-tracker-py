@@ -4,9 +4,8 @@ import opencage
 import folium
 
 
-number = "+639989949025"
-filename = "drew"
-# number = "+639162262994"
+filename = "sample_name_rick"
+number = "+639162262994"
 
 pepnumber = phonenumbers.parse(number)
 location = geocoder.description_for_number(pepnumber, "en")
